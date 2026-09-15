@@ -135,6 +135,7 @@ The single most useful insight the dashboard surfaces: **Electronics leads on re
 - 🏷️ Discount strategy needs to be **tier-tested**, not applied broadly
 - ⭐ **Ratings correlate strongly with demand** — reputation management is a growth lever, not just a CX metric
 - 💳 **Credit card** is the dominant payment method by a wide margin
+![Uploading Dashboard_snapshot.png…]()
 
 ---
 
