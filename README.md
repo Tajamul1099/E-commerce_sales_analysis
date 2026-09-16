@@ -123,7 +123,7 @@ The final deliverable: an interactive dashboard letting stakeholders filter by *
 | **$4.65M** | **$1.08M** | **52K** | **78K** | **▲ 1199.9%** |
 
 The single most useful insight the dashboard surfaces: **Electronics leads on revenue but not on profit.** Health, Food & Grocery, and Sports convert more efficiently into profit — meaning a revenue-first marketing strategy would actually be mis-allocating budget.
-
+                       <img width="585" height="341" alt="Dashboard_snapshot" src="https://github.com/user-attachments/assets/685d1202-8aee-4f26-b937-7c248c855be7" />
 ---
 
 ## 💡 Key Insights
@@ -134,7 +134,7 @@ The single most useful insight the dashboard surfaces: **Electronics leads on re
 - 🎯 Demand is broad-based; **revenue and brand value are concentrated**
 - 🏷️ Discount strategy needs to be **tier-tested**, not applied broadly
 - ⭐ **Ratings correlate strongly with demand** — reputation management is a growth lever, not just a CX metric
-- 💳 **Credit card** is the dominant payment method by a wide margin<img width="585" height="341" alt="Dashboard_snapshot" src="https://github.com/user-attachments/assets/685d1202-8aee-4f26-b937-7c248c855be7" />
+- 💳 **Credit card** is the dominant payment method by a wide margin
 
 
 ---
