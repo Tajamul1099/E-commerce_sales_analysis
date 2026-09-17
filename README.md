@@ -128,7 +128,7 @@ The single most useful insight the dashboard surfaces: **Electronics leads on re
 
 ## 💡 Key Insights
 
-- 📅 Revenue is **strongly seasonal** — trough in February (~$298K), peak in December (~$607K)
+- 📅 Revenue is **strongly seasonal** — trough in February ($298K), peak in December ($607K)
 - 🔌 **Electronics** drives ~27–28% of revenue but isn't the top profit category
 - ⚠️ **Cancelled/refunded orders** are a direct, now-measurable drag on profit
 - 🎯 Demand is broad-based; **revenue and brand value are concentrated**
